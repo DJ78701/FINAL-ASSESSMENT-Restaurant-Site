@@ -1,0 +1,21 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
+
+nav .btn {
+    background-color: #b67832;
+    color: #ffedda;
+}
+
+nav .btn:hover {
+    font-weight: bold;
+}
+
+.jumbotron{
+background-color: #b67832;
+}
